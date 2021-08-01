@@ -143,11 +143,11 @@ Here we demonstrate how a record replay attack on the accelerator sensor does no
 
 * Video (Record): 
 
-[![](http://img.youtube.com/vi/8Yz0Ugb6oUw/0.jpg)](http://www.youtube.com/watch?v=8Yz0Ugb6oUw "Huobi unlock")
+[![](http://img.youtube.com/vi/X0EDw41rNvM/hqdefault.jpg)](https://youtu.be/X0EDw41rNvM "Calibration Record")
 
 * Video (Replay): 
 
-[![](http://img.youtube.com/vi/8Yz0Ugb6oUw/0.jpg)](http://www.youtube.com/watch?v=8Yz0Ugb6oUw "Huobi unlock")
+[![](http://img.youtube.com/vi/nCDDM6B2SMQ/hqdefault.jpg)](https://youtu.be/nCDDM6B2SMQ "Calibration Replay")
 
 
 # Record Replay Failure (On PoPLar)
@@ -155,9 +155,14 @@ Here we demonstrate how a record replay attack on the accelerator sensor does no
 
 * Video (Record): 
 
-[![](http://img.youtube.com/vi/8Yz0Ugb6oUw/0.jpg)](http://www.youtube.com/watch?v=8Yz0Ugb6oUw "Huobi unlock")
+[![](http://img.youtube.com/vi/Ai89eEpr8PA/hqdefault.jpg)](https://youtu.be/Ai89eEpr8PA "POPLar Record")
 
 * Video (Replay): 
 
-[![](http://img.youtube.com/vi/8Yz0Ugb6oUw/0.jpg)](http://www.youtube.com/watch?v=8Yz0Ugb6oUw "Huobi unlock")
+[![](http://img.youtube.com/vi/1ets0RdK8nI/hqdefault.jpg)](https://youtu.be/1ets0RdK8nI "PoPLar Replay")
+
+# ADB Input bypassing accessibility attack mitigation (On Calibration App)
+
+[![](http://img.youtube.com/vi/PaFPu5gEaY4/hqdefault.jpg)](https://youtu.be/PaFPu5gEaY4 "ADB Input bypassing accessibility attack mitigation")
+
 
