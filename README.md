@@ -136,3 +136,28 @@ Showing how an accessibility service can force unlock the app by for
   * Device: Samsung Galaxy S8
   * Android version: 9
   * App version: 6.1.1
+
+
+# Record Replay Failure (On Calibration App)
+Here we demonstrate how a record replay attack on the accelerator sensor does not work. To demonstrate the difference in the record/replay actions, we attempted a record/replay on a calibration app. The video clearly shows that the replay actions differ significantly from the record actions, due to the interference of the live accelerometer readings. 
+
+* Video (Record): 
+
+[![](http://img.youtube.com/vi/8Yz0Ugb6oUw/0.jpg)](http://www.youtube.com/watch?v=8Yz0Ugb6oUw "Huobi unlock")
+
+* Video (Replay): 
+
+[![](http://img.youtube.com/vi/8Yz0Ugb6oUw/0.jpg)](http://www.youtube.com/watch?v=8Yz0Ugb6oUw "Huobi unlock")
+
+
+# Record Replay Failure (On PoPLar)
+Here we demonstrate how a record replay attack on the accelerator sensor does not work. Here we attempted a record/replay on the PoPLar challenge app. The video clearly shows that the replay actions differ significantly from the record actions, due to the interference of the live accelerometer readings. 
+
+* Video (Record): 
+
+[![](http://img.youtube.com/vi/8Yz0Ugb6oUw/0.jpg)](http://www.youtube.com/watch?v=8Yz0Ugb6oUw "Huobi unlock")
+
+* Video (Replay): 
+
+[![](http://img.youtube.com/vi/8Yz0Ugb6oUw/0.jpg)](http://www.youtube.com/watch?v=8Yz0Ugb6oUw "Huobi unlock")
+
