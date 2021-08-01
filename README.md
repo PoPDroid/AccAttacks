@@ -162,6 +162,7 @@ Here we demonstrate how a record replay attack on the accelerator sensor does no
 [![](http://img.youtube.com/vi/1ets0RdK8nI/hqdefault.jpg)](https://youtu.be/1ets0RdK8nI "PoPLar Replay")
 
 # ADB Input bypassing accessibility attack mitigation (On Calibration App)
+This video demonstrates an attack on Binance app that has been patched to protect against accessibility attacks. It shows that even though the withdrawal button is disabled in terms of accessibility, using adb input, we are still able to click on the button, thus allowing for a withdrawal attack.
 
 [![](http://img.youtube.com/vi/PaFPu5gEaY4/hqdefault.jpg)](https://youtu.be/PaFPu5gEaY4 "ADB Input bypassing accessibility attack mitigation")
 
