@@ -149,6 +149,10 @@ Here we demonstrate how a record replay attack on the accelerator sensor does no
 
 [![](http://img.youtube.com/vi/nCDDM6B2SMQ/hqdefault.jpg)](https://youtu.be/nCDDM6B2SMQ "Calibration Replay")
 
+* Tested on 
+  * Device: Samsung J3X
+  * Android version: 5.1.1
+  * App version: 6.1
 
 # Record Replay Failure (On PoPLar)
 Here we demonstrate how a record replay attack on the accelerator sensor does not work. Here we attempted a record/replay on the PoPLar challenge app. The video clearly shows that the replay actions differ significantly from the record actions, due to the interference of the live accelerometer readings. 
@@ -161,9 +165,17 @@ Here we demonstrate how a record replay attack on the accelerator sensor does no
 
 [![](http://img.youtube.com/vi/1ets0RdK8nI/hqdefault.jpg)](https://youtu.be/1ets0RdK8nI "PoPLar Replay")
 
-# ADB Input bypassing accessibility attack mitigation (On Calibration App)
+* Tested on 
+  * Device: Samsung J3X
+  * Android version: 5.1.1
+  * App version: 1.0
+  
+# ADB Input bypassing accessibility attack mitigation 
 This video demonstrates an attack on Binance app that has been patched to protect against accessibility attacks. It shows that even though the withdrawal button is disabled in terms of accessibility, using adb input, we are still able to click on the button, thus allowing for a withdrawal attack.
 
 [![](http://img.youtube.com/vi/PaFPu5gEaY4/hqdefault.jpg)](https://youtu.be/PaFPu5gEaY4 "ADB Input bypassing accessibility attack mitigation")
 
-
+* Tested on 
+  * Device: Nexus 5X, Samsung A30s
+  * Android version: 8, 10
+  * App version: 1.42.5
